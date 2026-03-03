@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "content": "Fixed JioTV Proxy 403 error, resolved SharedTransitionScope crash, and improved performance.",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "content": "Added persistent offline caching for playlists, fixed JioTV 403 DRM playback errors, and overhauled the Jetpack Compose UI with premium lag-free Channel Cards.",
   "url": "https://github.com/CodesRahul96/StreamPlus-Updates/raw/main/app-release.apk"
 }
