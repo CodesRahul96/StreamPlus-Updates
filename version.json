@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "content": "Added persistent offline caching for playlists, fixed JioTV 403 DRM playback errors, and overhauled the Jetpack Compose UI with premium lag-free Channel Cards.",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "content": "Release v1.0.3: applied small bug fixes and stability improvements, added key compose cleanup and playback retry improvements.",
   "url": "https://github.com/CodesRahul96/StreamPlus-Updates/raw/main/app-release.apk"
 }
