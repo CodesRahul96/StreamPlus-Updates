@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "content": "Release v1.0.3: applied small bug fixes and stability improvements, added key compose cleanup and playback retry improvements.",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "content": "Fresh release v1.0.0: Resetting release history and starting fresh with a stable base.",
   "url": "https://github.com/CodesRahul96/StreamPlus-Updates/raw/main/app-release.apk"
 }
