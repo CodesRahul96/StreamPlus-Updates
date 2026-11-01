@@ -1,6 +1,6 @@
 {
   "versionCode": 1,
   "versionName": "1.0.0",
-  "content": "Fresh release v1.0.0: Resetting release history and starting fresh with a stable base.",
+  "content": "Release v1.0.0: Added playlist group logo support with Room migration 20, single-pass playback loading, vertical opposite-side HUDs, theme accent customization, back navigation hierarchy, and Android 15 optimizations.",
   "url": "https://github.com/CodesRahul96/StreamPlus-Updates/raw/main/app-release.apk"
 }
