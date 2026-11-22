@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "content": "Release v1.0.0: Added playlist group logo support with Room migration 20, single-pass playback loading, vertical opposite-side HUDs, theme accent customization, back navigation hierarchy, and Android 15 optimizations.",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "content": "Release v1.0.1: Fixed stream recording format & playback issues with fragmented MP4 (#EXT-X-MAP) init segment prepending, on-the-fly AES-128 decryption, MPEG-TS ID3 stripping, and container auto-detection (MP4/TS/MKV). Includes playlist group logo support and performance improvements.",
   "url": "https://github.com/CodesRahul96/StreamPlus-Updates/raw/main/app-release.apk"
 }
